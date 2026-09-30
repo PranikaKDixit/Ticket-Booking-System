@@ -2,8 +2,6 @@
 
 A full-stack ticket-booking platform for **movies and concerts**: customers book seats from a real-time visual map, held seats auto-release on checkout abandonment, sold-out shows run a **waitlist with automatic seat reallocation**, and every confirmed booking produces a **QR-code email ticket**.
 
-Built for the Unthinkable Solutions assignment.
-
 ---
 
 ## 🔗 Live Demo
